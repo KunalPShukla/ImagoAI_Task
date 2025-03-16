@@ -55,4 +55,8 @@ This project builds and compares multiple regression models to predict vomitoxin
 ### 6. **Model Deployment**  
 - Final model was containerized using **Docker**.  
 - Deployed to **Azure** using **FastAPI** for serving predictions.  
-- API endpoints were created for easy model access and scalability.  
+- API endpoints were created for easy model access and scalability.
+
+### Application link
+- Azure link: https://imagoai-app.azurewebsites.net/docs
+
